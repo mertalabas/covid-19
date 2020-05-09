@@ -1,5 +1,6 @@
 
-# TRIAAI-COVID-19-DATATHON
+#COVID-19
+https://mertalabas.github.io/covid-19/
 
 1-	Covid-19’un dünya üzerindeki etkileri incelenirken https://datahub.io/core/covid-19 adresindeki ve John Hopkins üniversitesi dataları kullanılmıştır. 
 
